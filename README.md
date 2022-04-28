@@ -1,5 +1,5 @@
 # Learning-Git
-######:v: Quelques infos sur moi !
+:v: Quelques infos sur moi !
 
 ```
 Nom : Mairy
