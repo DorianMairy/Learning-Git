@@ -2,9 +2,7 @@
 :v: Test
 
 ```
-{
-  "firstName": "Dorian",
-  "lastName": "Mairy",
-  "age": 22
-}
+Nom : Mairy
+Prénom : Dorian
+Âge : 22 ans
 ``` 
